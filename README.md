@@ -1,5 +1,5 @@
 # rishimen
 cswebsite
 Rishi Mendiratta
-Instagram: Rishi Mendiratta
-President of MUN. Played Baseball. President of International Club
+<text>Instagram: Rishi Mendiratta</text>
+<text>President of MUN. Played Baseball. President of International Club </text>
